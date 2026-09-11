@@ -4,10 +4,14 @@ I am a final-year B.Tech Computer Science Engineering student at Maharaja Surajm
 
 ### 🚀 What I'm Currently Up To
 - 🎓 **Studying:** Completing my final year at MSIT with a current CGPA of 8.87[cite: 1].
-- 💻 **Building:** Architecting a full-stack **Shipment Tracking Web Interface** using Node.js, Express, and PostgreSQL, featuring Role-Based Access Control and stateless JWT authentication[cite: 1].
-- 🤖 **Competing:** Representing the e-Yantra Society as a Core Member in the **IIT Bombay eYRC 2025-2026** competition, developing autonomous robotics capabilities using ROS2, Python, and OpenCV[cite: 1].
-- 🔬 **Mentoring:** Serving as a Research Coordinator at Spark Society, guiding members on methodologies and tracking project development[cite: 1].
 - 🎯 **Seeking:** Actively looking for entry-level Software Development (SDE) and Full-Stack Engineering roles[cite: 1].
+
+---
+
+### 🏆 Featured Projects & Experience
+- 💻 **Shipment Tracking Platform:** Engineered a full-stack logistics management interface using Node.js, Express, and PostgreSQL, featuring Role-Based Access Control and stateless JWT authentication[cite: 1].
+- 🤖 **Autonomous Robotics:** Competed in the IIT Bombay eYRC 2025-2026 as a Core Member of the e-Yantra Society, developing simulation capabilities using ROS2, Python, and OpenCV[cite: 1].
+- 🔬 **Research Leadership:** Previously served as a Research Coordinator at Spark Society, where I mentored members on research methodologies and tracked paper development[cite: 1].
 
 ---
 
@@ -29,16 +33,15 @@ I am a final-year B.Tech Computer Science Engineering student at Maharaja Surajm
 ---
 
 ### 📊 GitHub Stats
-<!-- You can add dynamic GitHub stat cards here. To use these, simply replace 'YOUR_GITHUB_USERNAME' with your actual username -->
-[![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
+
+[![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/bilalkhan30/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/bilalkhan30/)
 
 ---
 
 ### ⚡ Beyond the Code
-When I am not writing software or building APIs, I enjoy exploring system configurations and hardware optimization. I frequently tinker with mobile operating systems—running thermal throttle stress tests and adjusting configurations to minimize battery drain and manage thermal output on high-performance hardware like Snapdragon processors. 
+When I am not writing software or building APIs, I enjoy exploring mobile system configurations and hardware optimization. I frequently tinker with mobile operating systems—running thermal throttle stress tests and exploring system configurations in environments like HyperOS to minimize battery drain and manage thermal output on high-performance hardware like Snapdragon processors. 
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/YOUR-CUSTOM-URL](https://www.linkedin.com/)
+- **LinkedIn:** [linkedin.com/in/bilalkhan-sde/](https://www.linkedin.com/)
 - **Email:** bilalkhan991150@gmail.com[cite: 1]
-- **Resume:** [Available on LinkedIn or upon request]

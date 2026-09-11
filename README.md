@@ -32,20 +32,6 @@ I am a final-year B.Tech Computer Science Engineering student at Maharaja Surajm
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/bilalkhan30">
-    <img src="https://github-readme-stats.vercel.app/api?username=bilalkhan30&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/bilalkhan30">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkhan30&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/bilalkhan-sde/](https://www.linkedin.com/)
 - **Email:** bilalkhan991150@gmail.com

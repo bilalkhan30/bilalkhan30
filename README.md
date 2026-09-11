@@ -34,8 +34,15 @@ I am a final-year B.Tech Computer Science Engineering student at Maharaja Surajm
 
 ### 📊 GitHub Stats
 
-[![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalkhan30&show_icons=true&theme=radical)](https://github.com/bilalkhan30)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkhan30&layout=compact&theme=radical)](https://github.com/bilalkhan30)
+<div align="center">
+  <a href="https://github.com/bilalkhan30">
+    <img src="https://github-readme-stats.vercel.app/api?username=bilalkhan30&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/bilalkhan30">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkhan30&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 

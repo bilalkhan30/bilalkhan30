@@ -9,7 +9,7 @@ I am a final-year B.Tech Computer Science Engineering student at Maharaja Surajm
 ---
 
 ### 🏆 Featured Projects & Experience
-- 🤝 **[CampusCollab — Student Collaboration Platform](https://github.com/bilalkhan30/CampusCollab):** Architected a full-stack peer recruitment and project discovery platform using Node.js, Express.js, and cloud PostgreSQL (Neon.tech), featuring JWT/bcrypt Role-Based Access Control, Cloudinary PDF resume hosting, real-time DOM filtering, and Vercel serverless deployment.
+- 🤝 **[CampusCollab — Student Collaboration Platform](https://github.com/bilalkhan30/Campus-Collab-Project):** Architected a full-stack peer recruitment and project discovery platform using Node.js, Express.js, and cloud PostgreSQL (Neon.tech), featuring JWT/bcrypt Role-Based Access Control, Cloudinary PDF resume hosting, real-time DOM filtering, and Vercel serverless deployment.
 - 💻 **[Shipment Tracking Platform](https://github.com/bilalkhan30/Shipping-Logistics-Management-Website):** Engineered a full-stack logistics management interface using Node.js, Express, and PostgreSQL, featuring Role-Based Access Control across 4 user types and stateless JWT authentication.
 - 🤖 **Autonomous Robotics:** Competed in the IIT Bombay eYRC 2025-2026 as a Core Member of the e-Yantra Society, developing simulation capabilities using ROS2, Python, and OpenCV.
 - 🔬 **Research Leadership:** Previously served as a Research Coordinator at Spark Society, where I mentored members on research methodologies and tracked paper development.
